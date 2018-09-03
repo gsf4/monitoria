@@ -1,1 +1,6 @@
-neto é um cuzão 2.0
+git config --global user.name "gsf4"
+git config --global user.email "gsf4@cin.ufpe.br"
+git add . - incluir o que vai ser commitado
+git status
+git push -v origin master
+git commit -m "neto é um cuzão 3.0"
