@@ -1,5 +1,6 @@
 git config --global user.name "gsf4"
 git config --global user.email "gsf4@cin.ufpe.br"
+git clone "URL"
 git add . - incluir o que vai ser commitado
 git status
 git push -v origin master
