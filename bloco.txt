@@ -4,4 +4,7 @@ git clone "URL"
 git add . - incluir o que vai ser commitado
 git status
 git push -v origin master
-git commit -m "neto È um cuz„o 3.0"
+git commit -m "neto √© um cuz√£o 3.0"
+git git checkout |branch| - entar na branch 
+git git checkout -b |branch| - criar e entra na branch
+
