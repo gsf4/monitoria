@@ -1,0 +1,10 @@
+rails g model product title:sting text:text - gera model com a tabela "product" e as colunas "title" e text
+  Controller :
+def create #salva dados coletados na view no model
+	@product=Product.new(params[:product]) 
+	@product.save 
+
+def show #mostra arquivos do model através do seu ID
+	@product = product.find(params[:id])
+
+|
